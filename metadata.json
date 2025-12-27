@@ -1,0 +1,7 @@
+{
+  "name": "Free Text to Image Studio",
+  "description": "A futuristic AI-powered image generator and editor using Gemini 2.5 Flash Image. Create stunning visuals from text or edit existing images with natural language instructions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
